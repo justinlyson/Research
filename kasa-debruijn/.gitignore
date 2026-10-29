@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+outputs/
+scratch/
+cycle_*.txt
+generation.json
+*_check.json
+.kasa-*/
+kasa-latin-lift-*/
+kasa-independent-verify-*/
+*.log
